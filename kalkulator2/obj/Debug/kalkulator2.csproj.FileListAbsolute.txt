@@ -1,0 +1,9 @@
+C:\Users\Tomasz\source\repos\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe.config
+C:\Users\Tomasz\source\repos\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe
+C:\Users\Tomasz\source\repos\kalkulator2\kalkulator2\bin\Debug\kalkulator2.pdb
+C:\Users\Tomasz\source\repos\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Form1.resources
+C:\Users\Tomasz\source\repos\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Properties.Resources.resources
+C:\Users\Tomasz\source\repos\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csproj.GenerateResource.cache
+C:\Users\Tomasz\source\repos\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz\source\repos\kalkulator2\kalkulator2\obj\Debug\kalkulator2.exe
+C:\Users\Tomasz\source\repos\kalkulator2\kalkulator2\obj\Debug\kalkulator2.pdb
